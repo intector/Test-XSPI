@@ -8,7 +8,7 @@ This project is an example of using external memory on the XSPI interface of an 
 * **APS256XXN-OBR-BG**
 	* *DRAM IoT RAM 256Mb OPI (x8,x16) DDR 200MHz, 1.8V, Ind. Temp., BGA24*
 
-The schematics are in [doc](/../../doc).
+The schematics are in [doc](/../../tree/main/doc).
 
 I made a board with this memory layout that I needed for one of my projects. I ran into several issues with the memory configuration and learned that working examples don't exist. However, I got inspiration and support from the STM32 Community, an excellent source of help. I probably would not have been able to find a solution without those guys.
 
